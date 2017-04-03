@@ -17,6 +17,10 @@ h2, h5, address, #footer {
 	text-align: center;
 }
 
+h5 {
+	margin-top: 8px;
+}
+
 #footer {
 	color: #ffffff;
 	text-align: center;
