@@ -17,8 +17,19 @@ h2, h5, address, #footer {
 	text-align: center;
 }
 
-.padtop {
-	padding-top: 30px;
+#footer {
+	color: #ffffff;
+	text-align: center;
+	background-color: #000033;
+	padding: 20px 0px 20px 0;
+}
+
+footer {
+	margin-top: 20px;
+}
+
+#secondlist {
+	list-style-type: none;
 }
 
 h2 {
@@ -71,4 +82,13 @@ span {
     -webkit-border-radius: 3px;
     border-radius: 3px;
     cursor: pointer;
+}
+
+@media screen 
+and (min-width: 640px)
+and (max-width: 1190px) {
+	#plan {
+		float: none;
+		text-align: center;
+	}
 }
