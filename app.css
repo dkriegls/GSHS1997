@@ -100,7 +100,7 @@ span {
 @media screen 
 and (min-width: 640px)
 and (max-width: 1190px) {
-	#plan {
+	.plan {
 		float: none;
 		text-align: center;
 	}
